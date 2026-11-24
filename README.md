@@ -123,7 +123,6 @@ Essa validação confirma a compilação e o fluxo básico testado, mas não sub
 - Implementar edição e exclusão com validação de vínculos entre livros, usuários e empréstimos.
 - Evoluir os mecanismos de segurança e integridade para um cenário multiusuário.
 
-
 ## Demonstração do sistema
 
 ### Menu principal
@@ -142,4 +141,4 @@ Tela de cadastro de livros, com informações como título, autor, editora e qua
 
 Tela de cadastro de usuários da biblioteca.
 
-![Cadastro de usuários](docs/images/cadastro-aluno.png)
+![Cadastro de usuários](docs/images/cadastrar-aluno.png)
