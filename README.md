@@ -122,3 +122,24 @@ Essa validação confirma a compilação e o fluxo básico testado, mas não sub
 - Melhorar o suporte a caracteres acentuados nas pesquisas.
 - Implementar edição e exclusão com validação de vínculos entre livros, usuários e empréstimos.
 - Evoluir os mecanismos de segurança e integridade para um cenário multiusuário.
+
+
+## Demonstração do sistema
+
+### Menu principal
+
+Tela inicial com acesso aos módulos de gerenciamento da biblioteca.
+
+![Menu principal](docs/images/menu-principal.png)
+
+### Cadastro de livros
+
+Tela de cadastro de livros, com informações como título, autor, editora e quantidade de exemplares.
+
+![Cadastro de livros](docs/images/cadastro-livro.png)
+
+### Cadastro de usuários
+
+Tela de cadastro de usuários da biblioteca.
+
+![Cadastro de usuários](docs/images/cadastro-aluno.png)
