@@ -1,0 +1,28 @@
+# Executaveis e arquivos de compilacao
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Arquivos de dados gerados durante a execucao (podem conter dados pessoais)
+livros.txt
+usuarios.txt
+emprestimos.txt
+livros.txt.bak
+usuarios.txt.bak
+emprestimos.txt.bak
+livros.txt.tmp
+usuarios.txt.tmp
+emprestimos.txt.tmp
+
+# Arquivos temporarios e do sistema
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuracoes locais do editor
+.vscode/
+.idea/
